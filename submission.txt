@@ -8,8 +8,7 @@ Submission Links
    Alternatively, the dataset file (heart.csv) is included in the submission ZIP.
 
 2. GitHub Repository Link:
-   [TO BE ADDED: Create a GitHub repository with commit history]
-   Example: https://github.com/yourusername/heart-disease-ml-project
+   https://github.com/chirangovinna/Heart-Failure-Prediction
    
    IMPORTANT: 
    - Initialize the repository and make initial commits
@@ -18,8 +17,7 @@ Submission Links
    - Upload the Jupyter notebook and dataset
 
 3. YouTube Video Link:
-   [TO BE ADDED: Record and upload presentation video]
-   Example: https://www.youtube.com/watch?v=XXXXXXXXX
+   https://www.youtube.com/watch?v=XXXXXXXXX
    
    Video Guidelines:
    - Each member presents for maximum 5 minutes
