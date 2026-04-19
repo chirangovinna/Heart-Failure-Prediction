@@ -17,7 +17,7 @@ Submission Links
    - Upload the Jupyter notebook and dataset
 
 3. YouTube Video Link:
-   https://www.youtube.com/watch?v=XXXXXXXXX
+   https://www.youtube.com/watch?v=V1xyv156y0c
    
    Video Guidelines:
    - Each member presents for maximum 5 minutes
@@ -29,11 +29,10 @@ Submission Links
 Submission Components Checklist:
 ☑ members.txt - Team information
 ☑ submission.txt - This file with all links
-☑ Jupyter Notebook - heart_disease_prediction.ipynb
+☑ Jupyter Notebook - FMI_Heart_Failure_Prediction.ipynb, Random_Forest_Heart_Failure_Prediction.ipynb
 ☑ Dataset - heart.csv
 ☑ Report PDF - heart_disease_prediction_report.pdf
 ☑ GitHub repository with commit history
 ☑ YouTube presentation video
 
-Note: All files should be zipped as 'ML-assignment.zip'
 ===========================================================
